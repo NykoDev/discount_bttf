@@ -1,0 +1,15 @@
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
